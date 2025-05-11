@@ -1,59 +1,59 @@
-<h1 align="center">Hi 👋, I'm İrfan Semih Doğru</h1>
-<h3 align="center">🌟 High School Student & Passionate Software Developer from Bursa, Turkey</h3>
+# 👋 Hello, I'm İrfan Semih
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative+Developer+%7C+AI+Enthusiast+%7C+Future+Tech+Leader;Building+impactful+digital+solutions..." />
-</p>
+I’m a passionate software developer based in **Bursa, Turkey**, driven by a love for technology and a desire to create solutions that make a meaningful impact. My goal is to transform ideas into **innovative digital products** that help solve real-world problems.
 
----
+One of my key accomplishments is the **AI-powered social responsibility project** I developed at **TÜBİTAK** called **“Dayes”**. This project attracted the attention of **LÖSEV**, and they expressed interest in using it for their foundation. It solidified my belief that software can not only transform businesses but also **improve lives**.
 
-- 🚀 I’m currently working on **AI-powered platforms, digital tools and real-time systems**  
-- 🔭 I recently developed **SOCINARY**, an AI-based digital marketing platform  
-- 💡 Passionate about **innovation, edtech, and building software for real-world impact**  
-- 🛠️ I work with: `PHP`, `Python`, `JavaScript`, `Laravel`, `Flask`, `Node.js`, `Electron.js`, `Tailwind`, `Firebase`, `MySQL`, and more  
-- 🌱 I’m exploring **Machine Learning** and **Next.js**  
-- 💬 Ask me about: **Full-stack development, Arduino projects, AI integration, digital platforms**  
-- 📫 Reach me at: **irfansemihdogru@outlook.com**
+I am focused on **building a software company** that leads digital transformation through user-centered and innovative solutions.
 
 ---
 
-### 🧠 Technologies & Tools
+## 💻 Tech Stack
 
-<p align="left">
-  <!-- En popüler ve etkileyici olanları öne al -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-</p>
+### **Languages & Frameworks**
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
----
+### **Databases & Platforms**
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://dev.to/irfansemihdogru" target="_blank"><img src="https://img.shields.io/badge/Dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/irfansemihdogru" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/irfansemihdogru" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+### **Tools & Others**
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfansemihdogru&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfansemihdogru&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfansemihdogru&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfansemihdogru&theme=transparent&hide_border=true)
+
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=irfansemihdogru&theme=transparent&hide_border=true)
+
+---
+
+## 📍 Connect with Me
+
+- [Instagram](https://instagram.com/irfansemihdogru)
+- [LinkedIn](https://linkedin.com/in/irfansemihdogru)
+- [Medium](https://medium.com/@irfansemihdogru)
+- [Email](mailto:irfansemihdogru@outlook.com)
+
+---
+
+## 💬 Quote
+*“Software is not just code, it's a solution that touches lives.”*  
+— İrfan Semih
+
+---
+[![](https://visitcount.itsvg.in/api?id=irfansemihdogru&icon=0&color=1)](https://visitcount.itsvg.in)
