@@ -1,10 +1,12 @@
 # 👋 Hello, I'm İrfan Semih
 
-I’m a passionate software developer based in **Bursa, Turkey**, driven by a love for technology and a desire to create solutions that make a meaningful impact. My goal is to transform ideas into **innovative digital products** that help solve real-world problems.
+Hello! I’m İrfan Semih, a young software enthusiast living in Bursa, with big dreams despite my age. Since childhood, my passion for technology has constantly driven me to learn, create, and improve myself.
 
-One of my key accomplishments is the **AI-powered social responsibility project** I developed at **TÜBİTAK** called **“Dayes”**. This project attracted the attention of **LÖSEV**, and they expressed interest in using it for their foundation. It solidified my belief that software can not only transform businesses but also **improve lives**.
+I love solving problems, developing projects that benefit people, and turning my ideas into digital reality. What motivates me the most is being involved in projects focused on social impact.
 
-I am focused on **building a software company** that leads digital transformation through user-centered and innovative solutions.
+With the AI-powered social responsibility project I developed at TÜBİTAK, called “Dayes,” I attracted the attention of LÖSEV, and they expressed their interest in using this project within their foundation. This experience showed me once again that software is not just made of code but of solutions that touch lives.
+
+My goal is to establish my own software company to improve people’s digital experiences through innovative solutions and to become a global leader in this field. I see challenges as opportunities and believe that every experience takes me one step further.
 
 ---
 
@@ -44,7 +46,7 @@ I am focused on **building a software company** that leads digital transformatio
 
 ## 📍 Connect with Me
 
-- [Instagram](https://instagram.com/irfansemihdogru)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=instagram&logoColor=white)
 - [LinkedIn](https://linkedin.com/in/irfansemihdogru)
 - [Medium](https://medium.com/@irfansemihdogru)
 - [Email](mailto:irfansemihdogru@outlook.com)
