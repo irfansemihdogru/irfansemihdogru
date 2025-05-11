@@ -46,7 +46,7 @@ My goal is to establish my own software company to improve people’s digital ex
 
 ## 📍 Connect with Me
 
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=instagram&logoColor=white)
+- [İnstagram](https://instagram.com/irfansemihdogru)
 - [LinkedIn](https://linkedin.com/in/irfansemihdogru)
 - [Medium](https://medium.com/@irfansemihdogru)
 - [Email](mailto:irfansemihdogru@outlook.com)
